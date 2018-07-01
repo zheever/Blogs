@@ -25,3 +25,11 @@ tags: 博客
 | -　Test Report | 测试报告 | 0 |
 | -　Size Measurement| 计算工作量 | 0 |
 | -　Postmortem & Process Improvement Plan| -事后总结，并提出过程改进计划| 4 |
+
+## 个人Git统计报告
+
+![pic1](./imgs/finalReport1.PNG)
+![pic2](./imgs/finalReport2.PNG)
+![pic3](./imgs/finalReport3.PNG)
+![pic4](./imgs/finalReport4.PNG)
+![pic5](./imgs/finalReport5.PNG)
