@@ -28,8 +28,13 @@ tags: 博客
 
 ## 个人Git统计报告
 
-![pic1](./imgs/finalReport1.PNG)
-![pic2](./imgs/finalReport2.PNG)
-![pic3](./imgs/finalReport3.PNG)
-![pic4](./imgs/finalReport4.PNG)
-![pic5](./imgs/finalReport5.PNG)
+![pic1](./imgs/finalReport1.png)
+
+![pic2](./imgs/finalReport2.png)
+
+![pic3](./imgs/finalReport3.png)
+
+![pic4](./imgs/finalReport4.png)
+
+![pic5](./imgs/finalReport5.png)
+
