@@ -27,9 +27,13 @@ tags: 博客
 | -　Postmortem & Process Improvement Plan| -事后总结，并提出过程改进计划| 4 |
 
 ## 个人Git统计报告
+
 Client2.0  微信小程序客户端
+
 ![pic1](./imgs/finalReport1.png)
+
 Dashbord
+
 ![pic2](./imgs/finalReport2.png)
 
 ![pic3](./imgs/finalReport3.png)
@@ -46,4 +50,6 @@ Dashbord
 |编写补充需求|按教材7.4规定的格式编写补充需求|
 |扫码点餐系统用例设计|按照ECB模型画用例的顺序图和类图|
 
- [微信小程序学习报告](https://github.com/houhx/houhx.github.io/blob/master/_posts/2018-04-15-Windows下Git%26Github使用教程.md)
+## 个人的技术类、项目管理类博客清单
+
+ [微信小程序学习报告](https://blog.csdn.net/zhewill/article/details/79950085)
